@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VebqOI8Y6uAAJZOulcFXCngLcw2a9GHANXrsJKFIyruANd3RpPrmuY29rEbgjP82djLsf2/w8mtENHB95RZMTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EmirDedic\\Desktop\\rs2_prenatal -6\\prenatal.model\\prenatal.model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EmirDedic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EmirDedic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\EmirDedic\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\EmirDedic\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
